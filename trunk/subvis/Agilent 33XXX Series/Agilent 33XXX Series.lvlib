@@ -17,7 +17,7 @@
 			</Item>
 			<Item Name="Action-Status.mnu" Type="Document" URL="/&lt;instrlib&gt;/Agilent 33XXX Series/Public/Action-Status/Action-Status.mnu"/>
 			<Item Name="Clear Arbitrary Waveform.vi" Type="VI" URL="/&lt;instrlib&gt;/Agilent 33XXX Series/Public/Action-Status/Clear Arbitrary Waveform.vi"/>
-			<Item Name="Enable Output.vi" Type="VI" URL="/&lt;instrlib&gt;/Agilent 33XXX Series/Public/Action-Status/Enable Output.vi"/>
+			<Item Name="Enable Output.vi" Type="VI" URL="../Public/Action-Status/Enable Output.vi"/>
 		</Item>
 		<Item Name="Configure" Type="Folder">
 			<Item Name="Low Level" Type="Folder">
@@ -26,7 +26,7 @@
 			</Item>
 			<Item Name="Configure.mnu" Type="Document" URL="/&lt;instrlib&gt;/Agilent 33XXX Series/Public/Configure/Configure.mnu"/>
 			<Item Name="Configure Arbitrary Waveform.vi" Type="VI" URL="/&lt;instrlib&gt;/Agilent 33XXX Series/Public/Configure/Configure Arbitrary Waveform.vi"/>
-			<Item Name="Configure Burst.vi" Type="VI" URL="/&lt;instrlib&gt;/Agilent 33XXX Series/Public/Configure/Configure Burst.vi"/>
+			<Item Name="Configure Burst.vi" Type="VI" URL="../Public/Configure/Configure Burst.vi"/>
 			<Item Name="Configure Duty Cycle.vi" Type="VI" URL="/&lt;instrlib&gt;/Agilent 33XXX Series/Public/Configure/Configure Duty Cycle.vi"/>
 			<Item Name="Configure Frequency Sweep.vi" Type="VI" URL="/&lt;instrlib&gt;/Agilent 33XXX Series/Public/Configure/Configure Frequency Sweep.vi"/>
 			<Item Name="Configure Modulation (Amplitude).vi" Type="VI" URL="/&lt;instrlib&gt;/Agilent 33XXX Series/Public/Configure/Configure Modulation (Amplitude).vi"/>
@@ -36,27 +36,27 @@
 			<Item Name="Configure Modulation (Phase).vi" Type="VI" URL="/&lt;instrlib&gt;/Agilent 33XXX Series/Public/Configure/Configure Modulation (Phase).vi"/>
 			<Item Name="Configure Modulation (Pulse Width).vi" Type="VI" URL="/&lt;instrlib&gt;/Agilent 33XXX Series/Public/Configure/Configure Modulation (Pulse Width).vi"/>
 			<Item Name="Configure Modulation.vi" Type="VI" URL="/&lt;instrlib&gt;/Agilent 33XXX Series/Public/Configure/Configure Modulation.vi"/>
-			<Item Name="Configure Output Impedance.vi" Type="VI" URL="/&lt;instrlib&gt;/Agilent 33XXX Series/Public/Configure/Configure Output Impedance.vi"/>
+			<Item Name="Configure Output Impedance.vi" Type="VI" URL="../Public/Configure/Configure Output Impedance.vi"/>
 			<Item Name="Configure Pulse.vi" Type="VI" URL="/&lt;instrlib&gt;/Agilent 33XXX Series/Public/Configure/Configure Pulse.vi"/>
 			<Item Name="Configure Ramp Symmetry.vi" Type="VI" URL="/&lt;instrlib&gt;/Agilent 33XXX Series/Public/Configure/Configure Ramp Symmetry.vi"/>
-			<Item Name="Configure Standard Waveform.vi" Type="VI" URL="/&lt;instrlib&gt;/Agilent 33XXX Series/Public/Configure/Configure Standard Waveform.vi"/>
+			<Item Name="Configure Standard Waveform.vi" Type="VI" URL="../Public/Configure/Configure Standard Waveform.vi"/>
 			<Item Name="Create Arbitrary Waveform.vi" Type="VI" URL="/&lt;instrlib&gt;/Agilent 33XXX Series/Public/Configure/Create Arbitrary Waveform.vi"/>
 		</Item>
 		<Item Name="Utility" Type="Folder">
 			<Item Name="Utility.mnu" Type="Document" URL="/&lt;instrlib&gt;/Agilent 33XXX Series/Public/Utility/Utility.mnu"/>
-			<Item Name="Error Query.vi" Type="VI" URL="/&lt;instrlib&gt;/Agilent 33XXX Series/Public/Utility/Error Query.vi"/>
-			<Item Name="Reset.vi" Type="VI" URL="/&lt;instrlib&gt;/Agilent 33XXX Series/Public/Utility/Reset.vi"/>
+			<Item Name="Error Query.vi" Type="VI" URL="../Public/Utility/Error Query.vi"/>
+			<Item Name="Reset.vi" Type="VI" URL="../Public/Utility/Reset.vi"/>
 			<Item Name="Revision Query.vi" Type="VI" URL="/&lt;instrlib&gt;/Agilent 33XXX Series/Public/Utility/Revision Query.vi"/>
 			<Item Name="Self-Test.vi" Type="VI" URL="/&lt;instrlib&gt;/Agilent 33XXX Series/Public/Utility/Self-Test.vi"/>
 		</Item>
 		<Item Name="dir.mnu" Type="Document" URL="/&lt;instrlib&gt;/Agilent 33XXX Series/Public/dir.mnu"/>
-		<Item Name="Close.vi" Type="VI" URL="/&lt;instrlib&gt;/Agilent 33XXX Series/Public/Close.vi"/>
-		<Item Name="Initialize.vi" Type="VI" URL="/&lt;instrlib&gt;/Agilent 33XXX Series/Public/Initialize.vi"/>
+		<Item Name="Close.vi" Type="VI" URL="../Public/Close.vi"/>
+		<Item Name="Initialize.vi" Type="VI" URL="../Public/Initialize.vi"/>
 		<Item Name="VI Tree.vi" Type="VI" URL="/&lt;instrlib&gt;/Agilent 33XXX Series/Public/VI Tree.vi"/>
 	</Item>
 	<Item Name="Private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		<Item Name="Default Instrument Setup.vi" Type="VI" URL="/&lt;instrlib&gt;/Agilent 33XXX Series/Private/Default Instrument Setup.vi"/>
+		<Item Name="Default Instrument Setup.vi" Type="VI" URL="../Private/Default Instrument Setup.vi"/>
 		<Item Name="Scale Arbitrary Waveform.vi" Type="VI" URL="/&lt;instrlib&gt;/Agilent 33XXX Series/Private/Scale Arbitrary Waveform.vi"/>
 	</Item>
 	<Item Name="Agilent 33XXX Series Readme.html" Type="Document" URL="/&lt;instrlib&gt;/Agilent 33XXX Series/Agilent 33XXX Series Readme.html"/>
